@@ -1,0 +1,27 @@
+*{
+text-decoration: none ;
+list-style: none;
+
+}
+.hero-title{
+    margin-top: 50px;
+
+}
+.hero-border{
+    border: 3px solid blue;
+}
+.seemore{
+    color: brown;
+    padding: 3px;
+}
+.seemore:hover{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: blue;
+}
+.ul a{
+color: rgb(252, 6, 6);
+}
+.footer{
+    background-color: rgb(14, 209, 62);
+}
